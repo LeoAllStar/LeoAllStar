@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Leo and im a student at NTI. 
+
+I am intrested in object oriented programming.
+
 <!--
 **LeoAllStar/LeoAllStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
